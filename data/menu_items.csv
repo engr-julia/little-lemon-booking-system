@@ -1,0 +1,31 @@
+MenuItemID,ItemType,ItemName
+1,Course,Bean soup
+2,Course,Carbonara
+3,Course,Greek salad
+4,Course,Kabasa
+5,Course,Pizza
+6,Course,Shwarma
+7,Starter,Falafel
+8,Starter,Flatbread
+9,Starter,Hummus
+10,Starter,Minestrone
+11,Starter,Olives
+12,Starter,Tomato bread
+13,Dessert,Affogato
+14,Dessert,Baklava
+15,Dessert,Cheesecake
+16,Dessert,Greek yoghurt
+17,Dessert,Ice cream
+18,Dessert,Turkish yoghurt
+19,Drink,Ankara White Wine
+20,Drink,Athens White wine
+21,Drink,Corfu Red Wine
+22,Drink,Italian Coffee
+23,Drink,Roma Red wine
+24,Drink,Turkish Coffee
+25,Side,Bruschetta
+26,Side,Focaccia
+27,Side,Fries
+28,Side,Meatballs
+29,Side,Potato salad
+30,Side,Tapas
